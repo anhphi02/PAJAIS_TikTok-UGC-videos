@@ -1,6 +1,4 @@
-# PAJAIS_TikTok-UGC-videos
-
-**Topic: The impact of TikTok UGC videos on online purchase intention: Mediating role of cognitive states**
+# Topic: The impact of TikTok UGC videos on online purchase intention: Mediating role of cognitive states
 
 **Background:** UGC videos have received considerable attention in recent years thanks to their great potential for buyers and sellers; however, the effect of this content on consumer behavior remains unclear, especially in the context of developing countries (e.g., Vietnam). By applying the Stimulus - Organism - Response model, this paper examines the effect of UGC videos on online
 purchase intention. Moreover, the mediating role of cognitive responses, consisting of perceived credibility, perceived diagnosticity, and mental imagery, is also examined. 
